@@ -1,0 +1,11 @@
+User-agent: Googlebot-Image
+Disallow: /img/collegedropout.jpg 
+
+User-agent: Googlebot-Image
+Disallow: /images/bodyissues.jpg
+
+User-agent: Googlebot-Image
+Disallow: /images/missamerica.jpg 
+
+User-agent: Googlebot-Image
+Disallow: /images/collegeroomie.jpg 
