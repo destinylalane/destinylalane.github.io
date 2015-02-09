@@ -1,3 +1,4 @@
+# robots.txt for http://www.destinylalane.github.io/
 User-agent: Googlebot-Image
 Disallow: /img/collegedropout.jpg 
 Disallow: /images/bodyissues.jpg
